@@ -1,0 +1,3 @@
+[submodule "LART"]
+	path = LART
+	url = https://github.com/brjathu/LART.git
