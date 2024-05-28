@@ -4,3 +4,6 @@
 [submodule "4D-Humans"]
 	path = 4D-Humans
 	url = https://github.com/shubham-goel/4D-Humans.git
+[submodule "mmpose"]
+	path = mmpose
+	url = https://github.com/open-mmlab/mmpose.git
